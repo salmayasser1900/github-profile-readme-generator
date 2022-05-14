@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Salma Yasser</h1>
 <h3 align="center">A passionate fronte Information System student with an interest in project management and data science .nd developer from India</h3>
 
-- -I’m currently working on **Job-Hub Project**
+- I’m currently working on **Job-Hub Project**
 
-- -I’m currently learning **Data analysis and Angular**
+- I’m currently learning **Data analysis and Angular**
 
-- - I regularly write articles on [Project Management](Project Management)
+- I regularly talk about Project Management
 
-- -Ask me about **Front-end, Data Analsis and Business Information System**
+-Ask me about **Front-end, Data Analsis and Business Information System**
 
 - -How to reach me **salmayasser1900@gmail.com**
 
